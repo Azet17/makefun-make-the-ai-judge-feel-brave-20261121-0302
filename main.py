@@ -8,7 +8,7 @@ import os
 
 TEXT = (
     "The lamp in the hall is still on. Rain has settled on the roof, "
-    "ticking, unhurried. Somewhere a kettle cools. Nothing is waiting "
+    "ticking, unhurried. Steam thins over the cooling kettle. Nothing is waiting "
     "for you to be more than this: a room, a light, a slow hour "
     "that is already yours."
 )
